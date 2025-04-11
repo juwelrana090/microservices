@@ -10,6 +10,6 @@
 
 ```bash
 
-    npm install express cors axios nodemon
+    npm install express cors axios nodemon body-parser crypto
 
 ```
